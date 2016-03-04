@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TAGZ1]]></title>
         <description><![CDATA[TAGZ1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tagz1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:34:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 07:41:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tagz1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Aphotic Aberigine" painting by TAGZ1]]></title>
+            <description><![CDATA[<article><h1>"Aphotic Aberigine" painting by TAGZ1</h1><p>Wanted to go a little further than a simple time lapse video. Music by Payola Presley http://www.savoryrecords.com/#!payola-presley/c1y3n Check out more of my paintings at TAGZ1.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8962dad5c6aa0cb7c6c1bdeb0eaa7cd8d85515b4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=688HW0uD3nw</link>
+            <guid isPermaLink="false">736d4abc-9cef-4efb-a138-b887720f2117</guid>
+            <pubDate>Fri, 04 Mar 2016 07:40:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TAGZ1]]></title>
             <description><![CDATA[<article><h1>TAGZ1</h1><h2></h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c58e27c4c0ac85785fa869aa43d74af3ef36766a.jpg"></article>]]></description>
-            <link>undefinedtagz1/index.html</link>
+            <link>https://thegrid.ai/tagz1/tagz1/index.html</link>
             <guid isPermaLink="false">c4e479e1-1238-4245-b10e-b2d05242941c</guid>
             <pubDate>Fri, 04 Mar 2016 07:34:35 GMT</pubDate>
         </item>

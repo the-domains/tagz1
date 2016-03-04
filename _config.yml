@@ -1,7 +1,7 @@
-name: THE HOME OF TAGZ1
+name: TAGZ1
 favicon: null
 layout_spectrum: 0.5058
-typography_spectrum: 0.34094
+typography_spectrum: 0.36412
 title: THE HOME OF TAGZ1
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c0c0c0'
     - '#636363'
     - '#2f2f2f'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.6875
   rhythmicContrast: 0
 purpose: []

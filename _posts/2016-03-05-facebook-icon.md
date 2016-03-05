@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T19:41:22.051Z'
-dateModified: '2016-03-05T19:41:17.574Z'
+datePublished: '2016-03-05T19:42:27.463Z'
+dateModified: '2016-03-05T19:41:30.052Z'
 title: facebook icon
 author: []
+sourcePath: _posts/2016-03-05-facebook-icon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-facebook-icon.md
-published: true
 url: facebook-icon/index.html
 _type: WebPage
 

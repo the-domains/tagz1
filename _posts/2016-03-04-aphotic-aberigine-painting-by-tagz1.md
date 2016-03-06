@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=688HW0uD3nw'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Wanted to go a little further than a simple time lapse video. Music by Payola Presley http://www.savoryrecords.com/#!payola-presley/c1y3n Check out more of my paintings at TAGZ1.com'
+datePublished: '2016-03-06T08:35:41.977Z'
+dateModified: '2016-03-06T08:14:46.550Z'
 author:
   - name: TAGZ1
     url: 'https://www.youtube.com/user/TAGZ1TV'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Wanted to go a little further than a simple time lapse video. Music by Payola Presley http://www.savoryrecords.com/#!payola-presley/c1y3n Check out more of my paintings at TAGZ1.com'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=688HW0uD3nw'
 title: '"Aphotic Aberigine" painting by TAGZ1'
-datePublished: '2016-03-04T07:40:39.793Z'
-dateModified: '2016-03-04T07:39:53.552Z'
 sourcePath: _posts/2016-03-04-aphotic-aberigine-painting-by-tagz1.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

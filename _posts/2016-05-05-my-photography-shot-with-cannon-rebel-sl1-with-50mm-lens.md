@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-05T23:44:30.051Z'
-datePublished: '2016-05-05T23:44:51.916Z'
+dateModified: '2016-05-05T23:59:13.228Z'
+datePublished: '2016-05-05T23:59:26.244Z'
 hasPage: true
 inFeed: true
 inNav: false
@@ -16,5 +16,5 @@ url: my-photography-shot-with-cannon-rebel-sl1-with-50mm-lens/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6b1d78-2b9c-4a4c-aa31-4a3498651244.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed9c9dee9df9b3dc8428aceaedfc342bc2cf1fe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3708e2c-304f-4880-b95d-6b64d43e5250.jpg)

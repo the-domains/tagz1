@@ -1,19 +1,4 @@
-name: TAGZ1
-favicon: null
-layout_spectrum: 0.588682
-typography_spectrum: 0.61424
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -23,6 +8,11 @@ color:
     - '#2f2f2f'
   brandStrength: 0
   lightness: 0.625
-  saturation: 0.75
   rhythmicContrast: 0.5
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.588682
+name: TAGZ1
+opengraph: {}
 purpose: []
+typography_spectrum: 0.564189

@@ -1,7 +1,7 @@
 name: TAGZ1
 favicon: null
 layout_spectrum: 0.588682
-typography_spectrum: 0.61213
+typography_spectrum: 0.61424
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#636363'
     - '#2f2f2f'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []

@@ -1,6 +1,6 @@
 name: TAGZ1
 favicon: null
-layout_spectrum: 0.58219
+layout_spectrum: 0.29799
 typography_spectrum: 0.26283
 title: THE ART OF TAGZ1
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.8125
   lightness: 0.5
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []

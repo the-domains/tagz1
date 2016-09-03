@@ -19,6 +19,9 @@ navigation:
   - name: FACEBOOK
     url: 'https://www.facebook.com/KingTAGZ1/'
     type: external
+  - name: INSTAGRAM
+    url: 'https://www.instagram.com/TAGZ1/'
+    type: external
 title: THE ARTWORK OF TAGZ1
 coverPrefs:
   filter: false

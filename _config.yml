@@ -25,6 +25,9 @@ navigation:
   - name: TWITTER
     url: 'https://twitter.com/TAGZ_ONE'
     type: external
+  - name: YOUTUBE
+    url: 'https://www.youtube.com/TAGZ1TV'
+    type: external
 title: THE ARTWORK OF TAGZ1
 coverPrefs:
   filter: false

@@ -15,10 +15,6 @@ layout_spectrum: 0.7274852548725903
 analytics: {}
 name: TAGZ1
 cta: {}
-navigation:
-  - name: YOUTUBE
-    url: 'https://www.youtube.com/TAGZ1TV'
-    type: external
 title: THE ARTWORK OF TAGZ1
 coverPrefs:
   filter: false

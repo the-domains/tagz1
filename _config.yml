@@ -22,6 +22,9 @@ navigation:
   - name: INSTAGRAM
     url: 'https://www.instagram.com/TAGZ1/'
     type: external
+  - name: TWITTER
+    url: 'https://twitter.com/TAGZ_ONE'
+    type: external
 title: THE ARTWORK OF TAGZ1
 coverPrefs:
   filter: false

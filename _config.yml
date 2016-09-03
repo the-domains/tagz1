@@ -1,4 +1,5 @@
-typography_spectrum: 0.24439314752817154
+layout_spectrum: 0.7274852548725903
+typography_spectrum: 0.6433418267406523
 color:
   brandColors:
     - '#ffffff'
@@ -10,13 +11,12 @@ color:
   lightness: 0.625
   rhythmicContrast: 0.5
   saturation: 0.75
+coverPrefs:
+  filter: false
 opengraph: {}
-layout_spectrum: 0.370866616955027
 analytics: {}
 name: TAGZ1
 cta: {}
 title: THE ARTWORK OF TAGZ1
-coverPrefs:
-  filter: false
 description: things will remain the same until you change them
 purpose: []
